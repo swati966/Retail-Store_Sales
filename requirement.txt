@@ -1,0 +1,5 @@
+pandas
+pymysql #this will work as adapter
+ sqlalchemy 
+
+psycopg2
